@@ -20,6 +20,8 @@
 
 ### Strict vs lazy evaluation
 
+### Polymorphism
+
 ### Coroutines, CPS
 
 ### Functors
