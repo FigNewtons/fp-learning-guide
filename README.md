@@ -12,6 +12,11 @@
 
 ### Foundational textbooks and courses
 
+- [Introduction to Functional Programming](https://usi-pl.github.io/lc/sp-2015/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf)
+- [The Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+- [Law and order in Algorithmics](https://maartenfokkinga.github.io/utwente/mmfphd.pdf)
+- The Lambda Calculus: Its Syntax and Semantics (Barendregt 1981)
+
 ### Why functional programming?
 
 ### Recursion
